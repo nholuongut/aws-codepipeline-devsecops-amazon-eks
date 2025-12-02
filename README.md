@@ -253,18 +253,24 @@ c) It may take 15 min to an hour for vulnerabilties to appear in AWS Security Hu
 
 d) Similar to **Build Stage**, in the **CodeSecurityScan Stage**, we are not fixing vulnerabilities reported for Dockerfile and HelmCharts via Checkov as per lines 28-33 in file: **buildspec/buildspec_secscan.yaml** and we are passing the pipeline with option **--soft-fail** in checkov commands for scan of Dockerfile and HelmCharts directory. In real scenario, if the pipeline has to fail based on vulnerabilities reported for Dockerfile and HelmCharts, the option **--soft-fail** has to be removed, that's the only change to be done.
 
+![](https://i.imgur.com/waxVImv.png)
+### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
+<br/>
 
-# 🚀 I'm are always open to your feedback.  Please contact as bellow information:
-### [Contact ]
-* [Name: nho Luong]
-* [Skype](luongutnho_skype)
-* [Github](https://github.com/nholuongut/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7931E&width=435&lines=Hello%2C+I'm+Nho+Luong🇻🇳🇻🇳🇻🇳🇻🇳🇻)](https://git.io/typing-svg)
+
+![](https://i.imgur.com/waxVImv.png)
+# I'm are always open to your feedback🚀
+# **[Contact Me🇻]**
+* [Name: Nho Luong]
+* [Telegram](+84983630781)
+* [WhatsApp](+84983630781)
+* [PayPal.Me](https://www.paypal.com/paypalme/nholuongut)
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
-* [Email Address](luongutnho@hotmail.com)
 
 ![](https://i.imgur.com/waxVImv.png)
 ![](Donate.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
-# License
+# License🇻
 * Nho Luong (c). All Rights Reserved.🌟
